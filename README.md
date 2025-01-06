@@ -14,3 +14,4 @@
 - **Get Upload URL**: `GET https://api.socialverseapp.com/posts/generate-upload-url`
 - **Upload Video**: `PUT <upload_url>`
 - **Create Post**: `POST https://api.socialverseapp.com/posts`
+
