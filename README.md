@@ -1,4 +1,4 @@
-# -Video-Search-and-Upload-Bot
+# Video-Search-and-Upload-Bot
 
 ## Setup Instructions
 1. Clone the repository.
